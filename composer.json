@@ -1,0 +1,26 @@
+{
+    "name": "atkrad/hurad-seo",
+    "description": "Optimizes your Hurad blog for SEO (Search Engine Optimization).",
+    "type": "hurad-plugin",
+    "keywords": ["Hurad", "Plugins", "SEO", "keywords", "meta", "meta keywords", "meta description"],
+    "version": "0.1.0",
+    "homepage": "https://github.com/atkrad/hurad-seo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Abdoli Rad",
+            "homepage": "http://magzilla.org"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/atkrad/hurad-seo/issues",
+        "source": "https://github.com/atkrad/hurad-seo"
+    },
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "*"
+    },
+    "extra": {
+        "installer-name": "HuradSeo"
+    }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <name>Hurad Seo</name>
+    <url>https://github.com/atkrad/hurad-seo</url>
+    <description>Optimizes your Hurad blog for SEO (Search Engine Optimization).</description>
+    <version>0.1.0</version>
+    <tags>Hurad, Plugins, SEO, keywords, meta, meta keywords, meta description</tags>
+    <author>
+        <name>Mohammad Abdoli Rad</name>
+        <url>http://magzilla.org</url>
+    </author>
+    <license>MIT</license>
+</plugin>
